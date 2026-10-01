@@ -30,7 +30,11 @@ The consultation form composes the visitor's brief locally in their browser and 
 
 ## Verified
 
-Functional acceptance (Playwright/Chromium, 38/38 passed): every "View design" button, all collection filters, finish-study image swaps, "Discuss this Peetham" form sync, mobile menu open/Escape/close, form validation paths, WhatsApp brief composition (phone line omitted when empty, popup-blocker fallback), every anchor/tel/mailto link, and zero horizontal overflow at 390/768/1280 px viewports with zero console errors.
+Functional acceptance (Playwright/Chromium, 47/47 passed): every "View design" button, all collection filters, finish-study image swaps, "Discuss this Peetham" form sync, mobile menu open/Escape/close, form validation paths, WhatsApp brief composition (phone line omitted when empty, popup-blocker fallback), every anchor/tel/mailto link, and zero horizontal overflow at 390/768/1280 px viewports with zero console errors.
+
+## Credits
+
+Site designed, built and maintained by [InBharat.ai](https://www.inbharat.ai) — deep-tech AI infrastructure built in Bharat.
 
 ## Honest constraints
 
